@@ -1,14 +1,14 @@
 layout_spectrum: 0.2808511
 color:
   saturation: 0.6489362
-  lightness: 0.3212766
-  brandStrength: 1
+  lightness: 1
+  brandStrength: 0
   brandColors:
     - '#E8E9ED'
     - '#7AAEDD'
     - '#605755'
     - '#0064A2'
     - '#080803'
-  rhythmicContrast: 0.4553191
+  rhythmicContrast: 0.9659575
 typography_spectrum: 0.3212766
 name: The Viewfinder
