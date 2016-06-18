@@ -1,14 +1,26 @@
-layout_spectrum: 0.2808511
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6489362
-  lightness: 1
+  saturation: 1
   brandStrength: 0
+  lightness: 0.004255319
   brandColors:
     - '#E8E9ED'
     - '#7AAEDD'
     - '#605755'
     - '#0064A2'
     - '#080803'
-  rhythmicContrast: 0.9659575
+  rhythmicContrast: 1
 typography_spectrum: 0.3212766
+layout_spectrum: 0
 name: The Viewfinder
