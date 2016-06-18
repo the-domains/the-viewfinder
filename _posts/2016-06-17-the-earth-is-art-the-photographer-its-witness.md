@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-06-18T02:36:18.445Z'
-datePublished: '2016-06-18T02:36:22.548Z'
+dateModified: '2016-06-18T02:48:49.866Z'
+datePublished: '2016-06-18T02:48:50.575Z'
 title: Sunset over Tamshui
 author: []
 sourcePath: _posts/2016-06-17-the-earth-is-art-the-photographer-its-witness.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
