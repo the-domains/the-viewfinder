@@ -4,14 +4,14 @@
         <description><![CDATA[The Viewfinder]]></description>
         <link>https://thegrid.ai/the-viewfinder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 02:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 02:48:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-viewfinder/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b09058c8-01cb-4e4b-ab20-da7c581e0d1c.jpg" alt="Sydney Opera House at Dusk">]]></description>
+            <title><![CDATA[Sydney Opera House at Dusk]]></title>
+            <description><![CDATA[<article><h1>Sydney Opera House at Dusk</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b09058c8-01cb-4e4b-ab20-da7c581e0d1c.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-viewfinder/sydney-opera-house-at-dusk/index.html</link>
             <guid isPermaLink="false">59733d7b-787f-4178-98e4-542abc0764ab</guid>
-            <pubDate>Sat, 18 Jun 2016 02:46:15 GMT</pubDate>
+            <pubDate>Sat, 18 Jun 2016 02:48:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
