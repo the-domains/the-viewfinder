@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.3212766
 color:
   saturation: 1
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#0064A2'
     - '#080803'
   rhythmicContrast: 1
-typography_spectrum: 0.3212766
-layout_spectrum: 0
+layout_spectrum: 0.5574468
 name: The Viewfinder
