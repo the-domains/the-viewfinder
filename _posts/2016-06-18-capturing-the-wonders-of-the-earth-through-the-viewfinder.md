@@ -1,7 +1,7 @@
 ---
 description: '“The Earth is Art, the Photographer is only a Witness” – Yann Arthus-Bertrand'
-dateModified: '2016-06-18T03:37:55.619Z'
-datePublished: '2016-06-18T03:37:57.505Z'
+dateModified: '2016-06-18T03:39:27.010Z'
+datePublished: '2016-06-18T03:39:30.088Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-capturing-the-wonders-of-the-earth-through-the-viewfinder.md
@@ -12,6 +12,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1944d90-eeba-421d-9ed2-488920af338e.jpg)
+
 "The Earth is Art, the Photographer is only a Witness" -- Yann Arthus-Bertrand
 
 Capturing the wonders of the Earth, through The Viewfinder.
