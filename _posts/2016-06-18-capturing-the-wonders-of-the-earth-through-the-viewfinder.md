@@ -1,11 +1,11 @@
 ---
 description: 'Capturing the wonders of the Earth, through The Viewfinder.'
-dateModified: '2016-06-18T03:29:28.945Z'
-datePublished: '2016-06-18T03:29:33.512Z'
+dateModified: '2016-06-18T03:29:36.396Z'
+datePublished: '2016-06-18T03:29:36.834Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-18-capturing-the-wonders-of-the-earth-through-the-viewfinder.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
