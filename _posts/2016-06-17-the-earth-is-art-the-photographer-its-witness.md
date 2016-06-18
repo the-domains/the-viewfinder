@@ -1,7 +1,7 @@
 ---
 description: '“The Earth is art, the Photographer its witness.”'
-dateModified: '2016-06-18T02:21:30.373Z'
-datePublished: '2016-06-18T02:21:45.478Z'
+dateModified: '2016-06-18T02:22:54.017Z'
+datePublished: '2016-06-18T02:23:09.090Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-the-earth-is-art-the-photographer-its-witness.md
