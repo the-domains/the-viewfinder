@@ -4,7 +4,7 @@
         <description><![CDATA[The Viewfinder]]></description>
         <link>https://thegrid.ai/the-viewfinder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 13:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 01:23:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-viewfinder/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-viewfinder/a55e6c02-4a12-49f4-a169-893f4e80bb52/index.html</link>
             <guid isPermaLink="false">a55e6c02-4a12-49f4-a169-893f4e80bb52</guid>
             <pubDate>Sat, 18 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/be64b225d6adaca04808e7e27b4c995f/croprotate.jpg?cropheight=4033&cropwidth=6048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F42b5314e-cbca-4161-8874-5417237c0e20.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/the-viewfinder/9549e586-b8ad-4607-9b36-a663475559d6/index.html</link>
+            <guid isPermaLink="false">9549e586-b8ad-4607-9b36-a663475559d6</guid>
+            <pubDate>Sun, 19 Jun 2016 01:23:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/the-viewfinder/ce06b40f-1004-4b46-a9f3-8de1886f0bea/index.html</link>
             <guid isPermaLink="false">ce06b40f-1004-4b46-a9f3-8de1886f0bea</guid>
             <pubDate>Sat, 18 Jun 2016 03:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/be64b225d6adaca04808e7e27b4c995f/croprotate.jpg?cropheight=4033&cropwidth=6048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F42b5314e-cbca-4161-8874-5417237c0e20.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/the-viewfinder/9549e586-b8ad-4607-9b36-a663475559d6/index.html</link>
-            <guid isPermaLink="false">9549e586-b8ad-4607-9b36-a663475559d6</guid>
-            <pubDate>Sat, 18 Jun 2016 03:27:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
