@@ -1,7 +1,7 @@
 name: The Viewfinder
 favicon: null
 layout_spectrum: 0.2361702
-typography_spectrum: 0.3617021
+typography_spectrum: 0.27016
 collections:
   - index:
       path: /
